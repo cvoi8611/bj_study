@@ -15,20 +15,6 @@ int main(){
         }
     }
 
-/*
-    WBWBWBWBW
-    BWBWBWBWB
-*/
-    // 
-    // WBWBWBWBWB
-    // BWBWBWBWBW
-    // WBWBWBWBWB
-    // BWBWBWBWBW
-    // WBWBWBWBWB
-    // BWBWBWBWBW
-    // WBWBWBWBWB
-    // BWBWBWBWBW
-
     for (int k=0; k<=n-8; k++){
         for (int h=0; h<=m-8; h++){
             
